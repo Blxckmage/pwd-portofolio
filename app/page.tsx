@@ -41,7 +41,7 @@ export default function Home() {
         </div>
         <div className="mb-6 text-[#cdd6f4]">
           <p className="mt-4 max-w-4xl text-xl">
-            I'm a 19 y.o Fullstack Developer who spend most of my time{" "}
+            I&apos;m a 19 y.o Fullstack Developer who spend most of my time{" "}
             <span className="line-through">tinkering my linux</span> studying
             new things everyday.
           </p>
